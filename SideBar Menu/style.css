@@ -56,12 +56,12 @@ body{
 .logo{
     margin-left: -15px;
 }
+.menu a:hover{
+    background-color: #f8a5a5;
+    padding-left: 1.7rem;
+}
 @media(min-width:676px){
     .sidebar{
         width: 500px;
     }
-}
-.menu a:hover{
-    background-color: #f8a5a5;
-    padding-left: 1.7rem;
 }
